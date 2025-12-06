@@ -1,0 +1,5 @@
+{
+  "name": "agroclima/proxy",
+  "description": "WeatherLink proxy service",
+  "require": {}
+}

@@ -1,1 +1,3 @@
-# agroclima-proxy2
+# Agroclima Proxy
+
+PHP proxy for WeatherLink API v2

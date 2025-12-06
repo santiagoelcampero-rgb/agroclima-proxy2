@@ -1,0 +1,32 @@
+body {
+    background: #eef2f3;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: #1a7431;
+    padding: 20px;
+    color: white;
+}
+
+.logo {
+    width: 100px;
+}
+
+.tarjeta {
+    background: white;
+    padding: 20px;
+    margin: 15px auto;
+    width: 80%;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.dato {
+    font-size: 28px;
+    margin-top: 10px;
+}
